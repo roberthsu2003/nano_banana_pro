@@ -6,7 +6,7 @@
 
 ## 如何啟用這些功能？
 
-要讓 Nano Banana Pro 畫出上述複雜圖解，請務必在你的工具（如 Gemini Advanced 或 AI Studio）中設定：
+要讓 Nano Banana Pro 畫出上述複雜圖解，請務必在你的工具（如 Gemini Pro(Advanced) 或 AI Studio）中設定：
 
 1.  **模型選擇：** 選擇 **Nano Banana Pro** (或顯示為 **Gemini 3.0 Pro Image**)。
 2.  **模式選擇：** 務必開啟 **"Thinking" (思考型)** 模式。這個模式會讓 AI 先「規劃」圖表的佈局和文字內容，然後再開始畫圖，這樣文字才不會出錯。
