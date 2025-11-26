@@ -21,7 +21,7 @@
 
 ### [Nano Banana Pro 深度研究報告](./Nano_Banana_Pro_深度研究報告/README.md)
 
-### [視覺溝通](./視覺溝通/README.md)
+### [視覺溝通-圖解類型的深度解析與應用策略](./視覺溝通/README.md)
 
 ### [學習歷程視覺化](./學習歷程視覺化/README.md)
 
