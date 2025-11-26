@@ -5,7 +5,7 @@
 與之前的模型不同，Nano Banana Pro 最大的突破在於它具備 **「邏輯思考能力 (Thinking)」** 和 **「精準的文字渲染能力」**。這意味著它不再只是「畫畫」，而是真的「懂」複雜的結構和資訊，因此它非常擅長繪製各種類型的**圖解 (Diagrams)**。
 ---
 
-### 如何啟用這些功能？
+## 如何啟用這些功能？
 
 要讓 Nano Banana Pro 畫出上述複雜圖解，請務必在你的工具（如 Gemini Advanced 或 AI Studio）中設定：
 
@@ -13,21 +13,31 @@
 2.  **模式選擇：** 務必開啟 **"Thinking" (思考型)** 模式。這個模式會讓 AI 先「規劃」圖表的佈局和文字內容，然後再開始畫圖，這樣文字才不會出錯。
 3.  **語言：** 可以直接使用**繁體中文**輸入提示詞，它對繁中的支援是目前業界最強的。
 
+---
+
+## Nano Banana Pro 深度研究報告
+
+ [Nano Banana Pro 深度研究報告](./Nano_Banana_Pro_深度研究報告/README.md)
+
+## 快速理解
+
 ### [如何生成優質的圖片(官方提供)](./如何生成優值的圖片/README.md)
 
 ### [Nano Banana Pro 的 6 大生成圖片類型](./生成圖片類型/README.md)
 
 ### [Nano Banana Pro 擅長的 6 大圖解類型](./6大圖解類型/README.md)
 
-### [Nano Banana Pro 深度研究報告](./Nano_Banana_Pro_深度研究報告/README.md)
+## 理論篇
 
 ### [視覺溝通-圖解類型的深度解析與應用策略](./視覺溝通/README.md)
 
 ### [平面設計風格](./平面設計風格/README.md)
 
+## 教育應用
+
 ### [學習歷程視覺化](./學習歷程視覺化/README.md)
 
-### 提供範本集樣本網站
+## 提供範本集樣本網站
 
 - [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
 
