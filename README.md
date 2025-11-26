@@ -36,7 +36,7 @@
 
 ### Nano Banana Pro 的應用場景
 
-### [Nano Banana Pro 常見的風格]
+### [Nano Banana Pro 常見的風格](./常見的風格/README.md)
 
 ## 理論篇
 
