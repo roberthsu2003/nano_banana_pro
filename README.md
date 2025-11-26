@@ -19,4 +19,8 @@
 
 ### [Nano Banana Pro 深度研究報告](./Nano_Banana_Pro_深度研究報告/README.md)
 
+### 提供範本集樣本網站
 
+- [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
+
+> 提供各種生成不同類型圖片的範本(沒有專注於某一圖片類型)
