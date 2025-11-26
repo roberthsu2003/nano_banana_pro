@@ -34,6 +34,10 @@
 
 ### [Nano Banana Pro 擅長的 6 大圖解類型](./6大圖解類型/README.md)
 
+### Nano Banana Pro 的應用場景
+
+### [Nano Banana Pro 常見的風格]
+
 ## 理論篇
 
 ### [視覺溝通-圖解類型的深度解析與應用策略](./視覺溝通/README.md)
