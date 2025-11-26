@@ -15,13 +15,13 @@
 
 ### [如何生成優質的圖片(官方提供)](./如何生成優值的圖片/README.md)
 
-### [學習歷程視覺化](./學習歷程視覺化/README.md)
+### [Nano Banana Pro 的 6 大生成圖片類型](./生成圖片類型/README.md)
 
 ### [Nano Banana Pro 擅長的 6 大圖解類型](./6大圖解類型/README.md)
 
-### [Nano Banana Pro 的 6 大生成圖片類型](./生成圖片類型/README.md)
-
 ### [Nano Banana Pro 深度研究報告](./Nano_Banana_Pro_深度研究報告/README.md)
+
+### [學習歷程視覺化](./學習歷程視覺化/README.md)
 
 ### 提供範本集樣本網站
 
