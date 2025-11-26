@@ -34,7 +34,7 @@
 
 ### [Nano Banana Pro 擅長的 6 大圖解類型](./6大圖解類型/README.md)
 
-### Nano Banana Pro 的應用場景
+### [Nano Banana Pro 的應用場景](./商業應用場景/README.md)
 
 ### [Nano Banana Pro 常見的風格](./常見的風格/README.md)
 
