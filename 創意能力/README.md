@@ -33,7 +33,7 @@
 |:--|:--|
 | ![Source](./images/source1.png) | ![結果](./images/target1.png)  |
 
-
+---
 
 
 ## 範例(1個主題和5個素材)
@@ -64,7 +64,7 @@
 |:--|:--|
 | ![Source](./images/source2.png) | ![結果](./images/target2.png)  |
 
-
+---
 ## 範例(保持環境光線的合成)
 
 **prompt**
@@ -89,6 +89,7 @@
 |:--|:--|
 | ![Source](./images/source3.png) | ![結果](./images/target3.png)  |
 
+---
 ## 範例(多人物的合成)
 
 **prompt**
