@@ -2,17 +2,17 @@
 根據您提供的資料，資訊圖表常見的風格（或專業領域中的美學趨勢與設計手法）名稱非常多元。這些風格橫跨了極簡結構、文化美學、以及現代 3D 擬真技術。
 
 - [資訊圖表與視覺設計的常見風格](#資訊圖表與視覺設計的常見風格)
-  - [🎨 風格關鍵字速查表 (Style Keywords Cheat Sheet)](#風格關鍵字速查表-style-keywords-cheat-sheet)
-  - [1. 極簡主義 (Minimalism)](#1極簡主義)
-  - [2. 新日式風格 (Japanese Design Style)](#2-新日式風格-japanese-design-style)
-  - [3. 黏土擬真 (Claymorphism)](#3-黏土擬真-claymorphism)
-  - [4. 馬卡龍色系 (Macaron Color Palette)](#4-馬卡龍色系-macaron-color-palette)
-  - [5. 滾動敘事 (Scrollytelling)](#5-滾動敘事-scrollytelling)
-  - [6. 漫畫風格 (Comic Book Style)](#6-漫畫風格-comic-book-style)
-  - [7. 等距視角 (Isometric View)](#7-等距視角-isometric-view)
-  - [8. 維度字體 (3D Typography)](#8-維度字體-3d-typography)
-  - [9. 漸層色 (Gradient)](#9-漸層色-gradient)
-  - [10. 色彩層疊 (Color Layering)](#10-色彩層疊-color-layering)
+- [🎨 風格關鍵字速查表 (Style Keywords Cheat Sheet)](#風格關鍵字速查表-style-keywords-cheat-sheet)
+- [1. 極簡主義 (Minimalism)](#1極簡主義)
+- [2. 新日式風格 (Japanese Design Style)](#2新日式風格)
+- [3. 黏土擬真 (Claymorphism)](#3黏土擬真)
+- [4. 馬卡龍色系 (Macaron Color Palette)](#4馬卡龍色系)
+- [5. 滾動敘事 (Scrollytelling)](#5滾動敘事)
+- [6. 漫畫風格 (Comic Book Style)](#6漫畫風格)
+- [7. 等距視角 (Isometric View)](#7等距視角)
+- [8. 維度字體 (3D Typography)](#8維度字體)
+- [9. 漸層色 (Gradient)](#9漸層色)
+- [10. 色彩層疊 (Color Layering)](#10色彩層疊)
 
 ## 資訊圖表與視覺設計的常見風格
 
@@ -113,7 +113,7 @@ A poster design, Swiss Style, Geometric composition, a single red circle in the 
 ```
 
 
-
+<a name="2新日式風格"></a>
 ### 2. 新日式風格 (Japanese Design Style)
 | 核心理念 | 特徵與應用 |
 | :--- | :--- |
@@ -199,6 +199,7 @@ A Japanese advertisement poster design, Organized Chaos, Information density, Hi
 
 
 
+<a name="3黏土擬真風格"></a>
 ### 3. 黏土擬真風格 (Claymorphism)
 | 核心理念 | 特徵與應用 |
 | :--- | :--- |
@@ -272,7 +273,7 @@ A 3D app icon of a mail envelope, Claymorphism style, Clay UI, Puffy and inflate
 A 3D Clay render of a small weather station, clouds and sun, Plasticine texture, Macaroon colors, Rounded edges, Soft volumetric lighting, Toy-like aesthetics, Chunky shapes, bright and clean background, isometric view.
 ```
 
-
+<a name="4馬卡龍色系"></a>
 ### 4. 馬卡龍色系 (Macaron Color Palette)
 | 核心理念 | 特徵與應用 |
 | :--- | :--- |
@@ -345,7 +346,7 @@ Abstract geometric shapes background, Macaron color palette, Mint Green, Lavende
 A 3D render of a smart speaker, Claymorphism style, Soft Pastel Pink and Baby Blue, Matte finish, Creamy texture, High brightness, Dreamy and airy, clean white background, soft diffuse lighting, cute and friendly.
 ```
 
-
+<a name="5滾動敘事風格"></a>
 ### 5. 滾動敘事風格 (Scrollytelling)
 | 核心理念 | 特徵與應用 |
 | :--- | :--- |
@@ -416,7 +417,7 @@ High-fidelity UI mockup of a long-scrolling website, Scrollytelling style, topic
 A step-by-step infographic design, Visual narrative, Scrollytelling concept, explaining the coffee bean roasting process, Sequential art, Flowing layout from top to bottom, Minimalist vector style, Visual hierarchy, Comforting earth tones, clear path, high definition.
 ```
 
- 
+<a name="6漫畫風格"></a>
 ### 6. 漫畫風格 (Comic / Manga Style)
 | 核心理念 | 特徵與應用 |
 | :--- | :--- |
@@ -488,6 +489,7 @@ Educational infographic poster, topic is photosynthesis, picture book illustrati
 
 以下設計名詞常作為風格元素或設計方法，與 3D 趨勢或特定視覺效果有關：
 
+<a name="7等距視角"></a>
 ### 1. 等距視角 (Isometric Design)
 | 定義 | 應用與特徵 |
 | :--- | :--- |
@@ -542,6 +544,7 @@ Isometric view of a futuristic smart city, modular buildings, solar panels, gree
 Isometric exploded view of a mechanical watch, floating parts, intricate gears, metallic texture, engineering blueprint style, detailed labels, high resolution, white background.
 ```
 
+<a name="8維度字體"></a>
 ### 2. 維度字體 (Dimensional Typography)
 | 定義 | 應用與特徵 |
 | :--- | :--- |
@@ -596,6 +599,7 @@ Giant 3D text "SALE", inflated balloon style, pink and gold, high gloss, floatin
 3D letters "AI", chrome texture, neon blue glow, reflective floor, cyberpunk style, dark background, sharp edges, futuristic.
 ```
 
+<a name="9漸層色"></a>
 ### 3. 漸層色 (Gradient)
 | 定義 | 應用與特徵 |
 | :--- | :--- |
@@ -651,6 +655,7 @@ Abstract fluid gradient background, holographic colors, pink, blue and purple, s
 A circular button with mesh gradient fill, orange to yellow, glassmorphism, glowing effect, dark background, modern UI design.
 ```
 
+<a name="10色彩層疊"></a>
 ### 4. 色彩層疊 (Kasane no Irome)
 | 定義 | 應用與特徵 |
 | :--- | :--- |
