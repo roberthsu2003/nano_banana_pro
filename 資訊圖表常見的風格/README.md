@@ -3,7 +3,7 @@
 
 - [資訊圖表與視覺設計的常見風格](#資訊圖表與視覺設計的常見風格)
   - [🎨 風格關鍵字速查表 (Style Keywords Cheat Sheet)](#風格關鍵字速查表-style-keywords-cheat-sheet)
-  - [1. 極簡主義 (Minimalism)](#1-極簡主義-minimalism)
+  - [1. 極簡主義 (Minimalism)](#1極簡主義)
   - [2. 新日式風格 (Japanese Design Style)](#2-新日式風格-japanese-design-style)
   - [3. 黏土擬真 (Claymorphism)](#3-黏土擬真-claymorphism)
   - [4. 馬卡龍色系 (Macaron Color Palette)](#4-馬卡龍色系-macaron-color-palette)
@@ -32,6 +32,7 @@
 | **9. 漸層色** | `Gradient`, `Vibrant colors`, `Holographic`, `Fluid` | 色彩流動、現代、科技感 |
 | **10. 色彩層疊** | `Color layering`, `Translucent`, `Overlay`, `Ethereal` | 半透明疊加、層次感、唯美 |
 
+<a name="1極簡主義"></a>
 ### 1. 極簡主義 (Minimalism)
 | 核心理念 | 特徵與應用 |
 | :--- | :--- |
