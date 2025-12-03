@@ -1,7 +1,18 @@
 # 資訊圖表常見的風格
 根據您提供的資料，資訊圖表常見的風格（或專業領域中的美學趨勢與設計手法）名稱非常多元。這些風格橫跨了極簡結構、文化美學、以及現代 3D 擬真技術。
 
-以下是資料來源中提及的，適用於資訊圖表或視覺傳播領域的常見風格專有名稱：
+- [資訊圖表與視覺設計的常見風格](#資訊圖表與視覺設計的常見風格)
+  - [🎨 風格關鍵字速查表 (Style Keywords Cheat Sheet)](#風格關鍵字速查表-style-keywords-cheat-sheet)
+  - [1. 極簡主義 (Minimalism)](#1-極簡主義-minimalism)
+  - [2. 新日式風格 (Japanese Design Style)](#2-新日式風格-japanese-design-style)
+  - [3. 黏土擬真 (Claymorphism)](#3-黏土擬真-claymorphism)
+  - [4. 馬卡龍色系 (Macaron Color Palette)](#4-馬卡龍色系-macaron-color-palette)
+  - [5. 滾動敘事 (Scrollytelling)](#5-滾動敘事-scrollytelling)
+  - [6. 漫畫風格 (Comic Book Style)](#6-漫畫風格-comic-book-style)
+  - [7. 等距視角 (Isometric View)](#7-等距視角-isometric-view)
+  - [8. 維度字體 (3D Typography)](#8-維度字體-3d-typography)
+  - [9. 漸層色 (Gradient)](#9-漸層色-gradient)
+  - [10. 色彩層疊 (Color Layering)](#10-色彩層疊-color-layering)
 
 ## 資訊圖表與視覺設計的常見風格
 
