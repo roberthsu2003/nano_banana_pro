@@ -75,3 +75,7 @@
 - [Nano-Banana-Prompt](https://nanobananaprompt.org/prompts/)
 
 > 提供各種生成不同類型圖片的範本(沒有專注於某一圖片類型)
+
+- [茶米老師教室](https://sites.google.com/view/nanobananapro/nanobanana?fbclid=IwY2xjawOi5DNleHRuA2FlbQIxMABicmlkETE3TGdFdGpCNURkZ0FMY3Vac3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkm9iDUjVulpLUMFHW2trZ_rjRiuZqFTTkCoz3mQ8GJa69QOtETEL5VBA-cd_aem_ualZXChCP82DK0Gq7lCH8g)
+
+- [YouMind](https://youmind.com/zh-TW/nano-banana-pro-prompts)
