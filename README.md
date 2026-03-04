@@ -2,6 +2,10 @@
 
 根據最新的資訊（2025年11月發布），**「Nano Banana Pro」** 是 Google 最新的圖像生成模型代號（正式名稱為 **Gemini 3 Pro Image** 的趣味代號）。與之前的模型不同，Nano Banana Pro 最大的突破在於它具備 **「邏輯思考能力 (Thinking)」** 和 **「精準的文字渲染能力」**。這意味著它不再只是「畫畫」，而是真的「懂」複雜的結構和資訊，因此它非常擅長繪製各種類型的**圖解 (Diagrams)**。
 
+# Nano Banana Pro 2介紹(2026/03/04-待整理)
+
+[Nano Banana 2 重磅登場！免費版限制？去 Flow 無限爽玩才是王道！](./待整理/pro2.md)
+
 ## Nano Banana Pro 官網介紹：
 
 [**Introducing Nano Banana Pro**](https://blog.google/technology/ai/nano-banana-pro/)
